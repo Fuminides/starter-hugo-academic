@@ -11,6 +11,7 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: |
+    "<a href="//publicationslist.org/javier.fumanal" title="JAVIER IDOCIN - publications list">publications list</a>"
+  image: "book.jpg"
 ---

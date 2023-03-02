@@ -1,73 +1,59 @@
 ---
-title: Example Talk
+title: Guía para hacer un Trabajo de Fin de Grado
+subtitle: BSc final project guide
 
-event: Wowchemy Conference
-event_url: https://example.org
+# Summary for listings and search engines
+summary: Javier Fumanal Idocin
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# Link this post with a project
+projects: []
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+# Date published
+date: "2020-12-13T00:00:00Z"
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# Is this an unpublished draft?
+draft: false
 
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
+# Show this page in the Featured widget?
 featured: false
 
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Portada'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+authors:
+- admin
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+tags:
+- Academic
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+
+categories:
+- Academic
+
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+## Overview
 
-Slides can be added in a few ways:
+La mega fantástica y extra elocuente guía
+sobre como sobrevivir a ese día
+en el que tienes que defender tu trabajo,
+y que pueden que otros intenten tirarlo,
+unos cuantos jueces que ni te comprenden,
+ni te conocen,
+pero aquí estoy yo para arreglarlo.
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+No olvides comentarme si te ha gustado,
+y que harías de haberlo hecho tú y con qué
+sugerencias crees que harían la guía más persuasiva,
+para futuros alumnos
+que también estén necesitados.
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+{{% staticref "doca/Guia_TFG_v101.pdf" "newtab" %}}Descárgala aquí/download here{{% /staticref %}}
