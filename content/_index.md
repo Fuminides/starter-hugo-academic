@@ -41,7 +41,6 @@ sections:
     design:
       columns: '2'
       view: card
-  
 
   - block: collection
     id: datasets
